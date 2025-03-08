@@ -1,0 +1,10 @@
+﻿TechStack,Expertise
+Selenium+Java," 10+ Years Extensive experience in Selenium with Java, specializing in designing scalable automation frameworks using POM, Data-Driven, and Hybrid approaches."
+"API Testing,Postman,SoapUI","Strong experience of 8+ years in API testing, using tools like Postman and SoapUI for REST and SOAP-based services.Validating request-response structures, automating API tests, performing contract testing, handling authentication mechanisms (OAuth, JWT, API keys)"
+API Automation,"8+ years of extensive experience in API automation, leveraging tools like RestAssured (Java) and Postman/Newman for testing RESTful APIs"
+"Mobile Testing,Mobile Automation,Appium","Developed Appium test scripts with Java, handling mobile gestures, working with real devices and emulators, integrating with CI/CD pipelines, and performing cross-platform testing to ensure app stability and performance."
+"DevOps,Cloud, AWS,Azure","Worked on CI/CD pipeline integration for test automation, managing cloud-based test environments, working with containerization tools like Docker, and leveraging cloud services for scalable and efficient test execution."
+"CI/CD,Jenkins,Gitlab,Git ","Worked on configuring automated test execution in pipelines, integrating Selenium and API tests with CI/CD workflows, managing version control with Git, and optimizing build and deployment processes for continuous testing."
+Python and Pytest,"Experience in  Python and Pytest for test automation, specializing in API and backend testing. My  expertise includes writing scalable test scripts, implementing fixtures, parameterization, integrating with CI/CD pipelines"
+"SQL,MySQL,POSTGreSQL","Experience in writing complex queries, performing database validation, data manipulation, joins, indexing, and optimizing queries for test automation.Worked on database testing to validate backend data integrity and ensure seamless application performance"
+"AI,LLM",I have recent experience in working with Large Language Models (LLMs) to create apps for automated email generation. This includes designing and implementing solutions that use LLMs to generate contextually relevant emails
